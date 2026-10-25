@@ -26,3 +26,10 @@ ObservableObject simplifies notifications sent by updated properties via the INo
 //
 All actual data is instantiated in the Model classes, and modified in the ViewModels using commands received from the Views. 
 No Backend data is being directly modified in the views and is instead sent via commands from the UI using RelayCommand or similar functionality to ViewModels and their functionalities.
+
+
+---
+
+## School project — recovered repository
+
+Originally developed during my studies using my previous GitHub account, [Andreas-HVL](https://github.com/Andreas-HVL). After losing access to that account, I copied this repository to my current account, Hijaker, preserving the original Git history and contributor credits.
